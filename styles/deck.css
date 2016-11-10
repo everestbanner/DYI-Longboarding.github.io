@@ -1,0 +1,59 @@
+
+/*first paragraph*/
+#firstinfo {
+	clear: left;
+	position: absolute;
+	
+	left: 15%;
+	top: 60%;	
+	
+	color: #FAB84F;
+	
+	z-index:1;
+	
+	width: 280px;
+	
+	background:black url(../photos/calmgriptape.jpg) top left;
+	border-radius: 50px;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+
+#bwfirst img {
+    clear:left;
+	position: absolute;
+	
+	left: 14.2%;
+	top: 61%;	
+	
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	
+	height: 585px;
+	width: 300px;
+	
+	z-index:-1;
+}
+
+
+
+
+/* possible griptape solution
+#gtfirst img {
+	clear:left;
+	position: absolute;
+	
+	left: 15%;
+	top: 62%;	
+	
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	
+	height: 570px;
+	width: 280px;
+	
+	z-index:0;
+}
+*/

@@ -1,0 +1,53 @@
+
+
+header {
+	background: black url(../photos/844930-longboard-wallpaper.jpg) top left no-repeat;
+	position: relative;
+	width: 1170px;
+	color: #FAB84F;
+	padding: 70px 0% 25px 25px;
+	margin: auto;
+	border: 3px black outset;
+	font-family: "Magneto", Arial, sans-serif;
+	font-size: 200%;
+}
+
+nav {
+	background-color: rgba( 255 255, 255, .3);
+	font-family: "Magneto", Arial, sans-serif;
+
+}
+nav a {
+	text-decoration: none;
+	color: #FAB84F
+}
+
+ nav ul li {
+	font-size: 130%;
+	float:left;
+	text-align: center;
+	width: 9%;
+	position: relative;
+	list-style: none;
+	margin: auto;
+	margin-bottom:16px;
+	
+	color: #FAB84F;
+	padding: 2.3%
+}
+
+body {
+	background: black url(../photos/calmgriptape.jpg) top left;
+}
+
+
+p, footer {
+	text-align: center
+}
+
+/* footer {
+	background-color: #5C5756; grey
+	margin: auto;
+	clear: left;
+	
+} */
